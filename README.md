@@ -14,7 +14,7 @@ avec:
  x is the value of independence,    
  a the coefficent or estimated slope and    
  b is estimated intercept.    
-And r notatiopn of Pearson Correlation Coefficent in the range [-1, 1]
+And r notation of Pearson Correlation Coefficent in the range [-1, 1]
 
 ## Usage
 1- Clone the repository
